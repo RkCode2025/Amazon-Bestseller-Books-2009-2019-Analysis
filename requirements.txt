@@ -1,0 +1,18 @@
+# Core data analysis
+pandas>=1.5.0
+numpy>=1.25.0
+
+# Interactive visualization
+plotly>=5.15.0
+
+# Jupyter notebooks support
+jupyter>=1.0.0
+notebook>=7.0.0
+ipython>=8.0.0
+
+# Optional for nice display in notebooks
+matplotlib>=3.7.0
+seaborn>=0.12.2
+
+# Environment management (optional)
+ipykernel>=6.20.0
